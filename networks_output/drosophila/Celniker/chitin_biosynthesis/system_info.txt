@@ -1,0 +1,5 @@
+os.name: Linux
+os.version: 5.10.102.1-microsoft-standard-WSL2
+java.version: 11.0.15
+cytoscape version: 3.9.1
+coexpnetviz app version: 2.1.5
