@@ -1,0 +1,7 @@
+2022-08-16 12:03:06,421 I: Detected csv dialect of /home/neomanna/coExpression/filtered_23_31_combined.csv:
+delimiter ','
+quotechar '"'
+doublequote False
+quoting 0
+escapechar None
+2022-08-16 12:03:06,434 I: percentiles: [ 5. 95.]
