@@ -1,0 +1,8 @@
+2022-08-17 20:34:27,426 I: Detected csv dialect of /home/neomanna/coExpression/bsf/bsf_counts_tpm_bonellipaper.csv:
+delimiter ','
+quotechar '"'
+doublequote False
+quoting 0
+escapechar None
+2022-08-17 20:34:27,433 I: percentiles: [ 5. 95.]
+2022-08-17 20:34:27,433 W: Dropped 2 out of 2567 rows from ExpressionMatrix('bsf_counts_tpm_bonellipaper.csv') due to having (near) 0 standard deviation. These rows have a NaN correlation with any other row.

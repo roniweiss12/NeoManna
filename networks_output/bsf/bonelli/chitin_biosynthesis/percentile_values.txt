@@ -1,0 +1,2 @@
+expression_matrix	lower	upper
+bsf_counts_tpm_bonellipaper.csv	-0.9892865665835436	0.9908485703866733
