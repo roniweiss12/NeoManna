@@ -1,0 +1,7 @@
+2022-08-19 16:47:18,831 I: Detected csv dialect of /home/neomanna/coExpression/celniker/filtered_23_31_combined.csv:
+delimiter ','
+quotechar '"'
+doublequote False
+quoting 0
+escapechar None
+2022-08-19 16:47:18,844 I: percentiles: [ 5. 95.]
