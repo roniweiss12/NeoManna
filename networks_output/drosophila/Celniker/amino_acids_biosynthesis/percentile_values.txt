@@ -1,2 +1,0 @@
-expression_matrix	lower	upper
-filtered_23_31_combined.csv	-0.8136194113696336	0.9189631230591356
