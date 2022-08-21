@@ -1,7 +1,0 @@
-2022-08-18 15:28:09,619 I: Detected csv dialect of /home/neomanna/coExpression/count_table_graafpaper.csv:
-delimiter ','
-quotechar '"'
-doublequote False
-quoting 0
-escapechar None
-2022-08-18 15:28:09,622 I: percentiles: [ 5. 95.]
