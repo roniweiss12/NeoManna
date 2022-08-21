@@ -1,0 +1,2 @@
+expression_matrix	lower	upper
+count_table_graafpaper.csv	-0.9854198599478124	0.9891850870173778
